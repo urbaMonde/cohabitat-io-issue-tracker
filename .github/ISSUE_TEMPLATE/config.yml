@@ -1,8 +1,5 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Feature request
+  - name: 'Feature requests, Support & Other'
+    about: 'If you have an idea, a question, need help or want to chat.'
     url: https://forum.cohabitat.io/
-    about: 'For ideas or feature requests'
-  - name: Support Questions & Other
-    url: https://forum.cohabitat.io/
-    about: 'If you have a question or need help'
